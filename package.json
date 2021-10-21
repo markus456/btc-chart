@@ -1,0 +1,26 @@
+{
+  "name": "btc-chart",
+  "version": "1.0.0",
+  "description": "BTC-EUR price chart",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markus456/btc-chart.git"
+  },
+  "keywords": [
+    "bitcoin"
+  ],
+  "author": "Markus Mäkelä",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markus456/btc-chart/issues"
+  },
+  "homepage": "https://github.com/markus456/btc-chart#readme",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "chart.js": "^3.5.1"
+  }
+}
